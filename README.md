@@ -1,6 +1,6 @@
 # hafta_1_medium
 
-A new Flutter project.
+Kodluyoruz Yaz Challenge için yaptığım birinci haftanın projesi.
 ![Ekran Görüntüsü (1)](https://github.com/sevvalsusenturk/hafta_1_medium/assets/116514905/688267fd-73ff-4cca-b855-dbce81c1bc55)
 ## Getting Started
 
